@@ -28,7 +28,39 @@ Make sure you have installed:
 ---
 ## How to Run the Application
 
-From the project root:
+### 1. Clone the repository
 
 ```bash
+git clone https://github.com/ChloeFoong/forum-full-stack.git
+cd forum-full-stack
+```
+
+### 2. Build and start application
+```bash
 docker compose up --build
+```
+This will:
+
+- Build backend and frontend Docker images
+- Start backend on http://localhost:8080
+- Start frontend on http://localhost:3000
+
+### 3. Access the application
+
+Frontend (React app): http://localhost:3000
+Backend API: http://localhost:8080
+
+### 4. Stop the application
+
+```bash
+docker compose down
+```
+## Use of AI
+- Research on Go libraries
+- Research on databases (PostgreSQL, SQLite)
+- Research on JWT authentication
+- Review code on JWT authentication
+- CSS syntax and styling
+- Check if routing connection are correct
+
+
