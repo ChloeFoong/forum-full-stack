@@ -6,8 +6,6 @@ A full-stack forum web application built with:
 - **Frontend:** React
 - **Containerization:** Docker & Docker Compose
 
-This project supports user authentication, topics, posts, and protected routes using JWT.
-
 ---
 ## Features
 - User registration & login
@@ -19,8 +17,6 @@ This project supports user authentication, topics, posts, and protected routes u
 
 ---
 ## Prerequisites
-
-Make sure you have installed:
 
 - **Docker**
 - **Docker Compose**
