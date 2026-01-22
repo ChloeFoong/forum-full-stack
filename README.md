@@ -62,5 +62,6 @@ docker compose down
 - Review code on JWT authentication
 - CSS syntax and styling
 - Check if routing connection are correct
+- Docker issues
 
 
